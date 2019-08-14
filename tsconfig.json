@@ -19,12 +19,6 @@
       "dom"
     ],
     "paths": {
-      "angular-lib-starter": [
-        "dist/angular-lib-starter"
-      ],
-      "angular-lib-starter/*": [
-        "dist/angular-lib-starter/*"
-      ],
       "angular-starter-lib": [
         "dist/angular-starter-lib"
       ],
