@@ -15,3 +15,6 @@ Run `ng generate library angular-starter-lib --prefix=lib` to generate a new lib
 ## Build
 
 Run `ng build <library>` to build a specific library module. It should build as --prod by default.
+
+## References
+https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
