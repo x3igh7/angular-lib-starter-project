@@ -17,7 +17,21 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-lib-starter": [
+        "dist/angular-lib-starter"
+      ],
+      "angular-lib-starter/*": [
+        "dist/angular-lib-starter/*"
+      ],
+      "angular-starter-lib": [
+        "dist/angular-starter-lib"
+      ],
+      "angular-starter-lib/*": [
+        "dist/angular-starter-lib/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
